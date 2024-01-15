@@ -49,7 +49,7 @@ Veja nosso site adaptável em 🚩[Portal News](https://portal-news-chi.vercel.a
 <br>
 
 
-### Oi, apreciador da informação! 📰✨ Bem-vindo ao 'Estúdio Code News', onde cada linha de código constrói a experiência única do seu portal de notícias digital! Se curtiu, dê um [`Follow`](https://github.com/Rodolfo-Sampaio) e vamos criar juntos esse oásis de atualizações! 🚀🗞️ #CodeNewsStudio"
+#### Obrigado por visitar meu Git. Se você der um [`Follow`](https://github.com/Rodolfo-Sampaio), ficarei feliz em retribuir!🚀💻
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FFFAF0&height=100&section=footer" alt="Waving Capsule Render">
 
